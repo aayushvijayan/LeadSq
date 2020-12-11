@@ -1,0 +1,9 @@
+1. Select department, count(department) from employee
+group by department;
+
+2. select employee.id,sum(incentives.incentive_ammount) from employee
+inner join incentives on employee.employee_id=incentives.employee_ref_id;
+
+5. We start both the timers and wait till the 4 min timer finishes. Now we've got 3 minutes on the 7 min timer. Now we start measuring.  We repeat this three time to measure a time equivalent to 9 minutes.
+
+6. 2/3
